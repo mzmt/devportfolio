@@ -289,14 +289,19 @@ footer {
     font-size: 5em;
     text-transform: uppercase;
     letter-spacing: 0.05em;
-    line-height: 0.9em
+    line-height: 0.9em;
+    margin-bottom: 15px
 }
 
-#lead-content h2 {
+/* #lead-content h2 {
     color: #00ffff;
     font-weight: 500;
     font-size: 2.25em;
     margin-bottom: 15px
+} */
+
+#lead-content span {
+    color: #00ffff;
 }
 
 #lead-overlay {
@@ -307,7 +312,7 @@ footer {
     right: 0;
     bottom: 0;
     left: 0;
-    background: rgba(10, 10, 10, 0.6);
+    background: rgba(10, 10, 30, 0.6);
     z-index: 1
 }
 
