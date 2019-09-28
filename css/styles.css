@@ -293,7 +293,7 @@ footer {
 }
 
 #lead-content h2 {
-    color: #a0cfee;
+    color: #00ffff;
     font-weight: 500;
     font-size: 2.25em;
     margin-bottom: 15px
@@ -307,7 +307,7 @@ footer {
     right: 0;
     bottom: 0;
     left: 0;
-    background: rgba(33, 125, 187, 0.6);
+    background: rgba(10, 10, 10, 0.6);
     z-index: 1
 }
 
